@@ -32,6 +32,7 @@ Game Off 2020/*.pdb
 Game Off 2020/*.mdb
 Game Off 2020/*.opendb
 Game Off 2020/*.VC.db
+Game Off 2020/ProjectSettings/ProjectVersion.txt
 
 # Unity3D generated meta files
 Game Off 2020/*.pidb.meta
