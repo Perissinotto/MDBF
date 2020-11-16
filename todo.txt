@@ -1,0 +1,16 @@
+- creare livello 01:
+	- dimensioni l = 1920 * 3; h = 1080 * 2
+	
+Marco: 
+	crare layers:
+		- background -> cielo stellato / altri pianeti / asteroidi
+		- foreground -> roccie basse -> colore grigio
+	
+Giovanni:
+	creare layer:
+		- piattaforme
+		
+Perry:
+	lavoro su script:
+		- spostare blocchi, sburra
+	
